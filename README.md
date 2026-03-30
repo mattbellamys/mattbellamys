@@ -2,7 +2,7 @@
 <html>
     
 <div align="center">
-<img src="https://c.tenor.com/Uj_f7bEJ-vwAAAAC/tenor.gif" width="300" height="120">
+<img src="https://c.tenor.com/Uj_f7bEJ-vwAAAAC/tenor.gif" width="300" height="135">
 <img src="https://64.media.tumblr.com/tumblr_lts5rq1Yk41qkxcjso1_500.gifv" width="300" height="135">
 
 </div>
@@ -44,3 +44,11 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3famw1egzsxv2kzekv5e045br&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=25a1ef&bar_color_cover=false">
   </a>
 </p>
+
+<div align="center">
+<img src="https://media1.tenor.com/m/9yBFGgOe538AAAAC/muse-concert.gif" width="300" height="500">
+<img src="https://64.media.tumblr.com/tumblr_lts5rq1Yk41qkxcjso1_500.gifv" width="300" height="135">
+
+</div>
+
+
