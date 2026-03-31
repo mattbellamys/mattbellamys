@@ -35,7 +35,7 @@
   
 <div align="center">
   
-.˚✮ [𝐑𝐞𝐧𝐭𝐫𝐲](https://rentry.co/matbellamys) ✮˚.‎   ₊‧꒰[𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬](https://pronouns.cc/@Matt_bellamy)꒱‧₊   ‧₊˚♪ [𝐋𝐚𝐬𝐭 𝐟𝐦](https://www.last.fm/user/alanbirdy) 𝄞₊˚⊹
+.˚✮ [𝐑𝐞𝐧𝐭𝐫𝐲](https://rentry.co/matbellamys) ✮˚.‎___₊‧꒰[𝐏𝐫𝐨𝐧𝐨𝐮𝐧𝐬](https://pronouns.cc/@Matt_bellamy)꒱‧₊___₊˚♪ [𝐋𝐚𝐬𝐭 𝐟𝐦](https://www.last.fm/user/alanbirdy) 𝄞₊˚___˗ˏˋ[Strawpage](https://mattbellamys.straw.page/)ˎˊ˗
  </div>
 
 
