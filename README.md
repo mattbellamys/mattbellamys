@@ -2,7 +2,7 @@
 <html>
     
 <div align="center">
-<img src="https://c.tenor.com/Uj_f7bEJ-vwAAAAC/tenor.gif" width="300" height="135">
+<img src="https://media1.tenor.com/m/9yBFGgOe538AAAAC/muse-concert.gif" width="300" height="135">
 <img src="https://64.media.tumblr.com/tumblr_lts5rq1Yk41qkxcjso1_500.gifv" width="300" height="135">
 
 </div>
@@ -46,8 +46,8 @@
 </p>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/9yBFGgOe538AAAAC/muse-concert.gif" width="300" height="500">
-<img src="https://64.media.tumblr.com/tumblr_lts5rq1Yk41qkxcjso1_500.gifv" width="300" height="135">
+<img src="https://media1.tenor.com/m/ohxB3Z0qtGcAAAAC/skrillex-dubstep.gif" width="260" height="500">
+<img src="http://festivalando.com.br/wp-content/uploads/2015/02/lollapalooza_brasil_skrillex10.gif" width="300" height="135">
 
 </div>
 
