@@ -7,7 +7,8 @@
 </div>
 
 <div align="center">
-‎ 
+    
+‎[𝑪𝑳𝑰𝑪𝑲 𝑴𝑬 ‼](https://helpourpeople.carrd.co/)
 
 </div>
 
